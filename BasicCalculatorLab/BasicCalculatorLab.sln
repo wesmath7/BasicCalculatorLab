@@ -14,4 +14,19 @@ Global
 		{2F4B21EC-5D2A-46D4-B14F-13723C71CF83}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{2F4B21EC-5D2A-46D4-B14F-13723C71CF83}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+	EndGlobalSection
 EndGlobal
